@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=JhonattanStevenAmaguaTaco&layout=compact&theme=tokyonight&langs_count=10)
 
 
-- I love music, you can see an excerpt of my work in <a href="https://vimeo.com/168875470" alt="enlace a video reel de JhonattanStevenAmaguaTaco">vimeo</a>.
+- I love music.
 - 💬 Contact me as @JhonattanStevenAmaguaTaco
 <!--
 📫 Follow me in: 
