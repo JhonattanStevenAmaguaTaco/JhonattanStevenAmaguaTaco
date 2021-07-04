@@ -5,7 +5,7 @@
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=JhonattanStevenAmaguaTaco)
-<br />//Salto de linea
+<br />
 
 ![Github Stats JhonattanStevenAmaguaTaco](https://github-readme-stats.vercel.app/api?username=JhonattanStevenAmaguaTaco&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
 
